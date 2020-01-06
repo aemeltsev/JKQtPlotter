@@ -1,0 +1,7 @@
+<map id="JKQTFPLinePlot" name="JKQTFPLinePlot">
+<area shape="rect" id="node1" title="a simple line plot for JKQTFastPlotter" alt="" coords="98,160,237,189"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_f_p_v_bar_plot.html" title="a simple vertical bar plot for JKQTFastPlotter" alt="" coords="5,237,151,267"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_f_p_v_cross_plot.html" title="a simple plot that draws a cross for every datapoint" alt="" coords="175,237,339,267"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_f_p_plot.html" title="base class for all plots that may be plotted by JKQTFastPlotter" alt="" coords="114,83,221,112"/>
+<area shape="rect" id="node3" title=" " alt="" coords="125,5,210,35"/>
+</map>

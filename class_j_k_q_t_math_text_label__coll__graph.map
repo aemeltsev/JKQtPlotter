@@ -1,0 +1,7 @@
+<map id="JKQTMathTextLabel" name="JKQTMathTextLabel">
+<area shape="rect" id="node1" title="A QLabel&#45;derived class that draws an equation with LaTeX markup using JKQTMathText." alt="" coords="5,196,173,225"/>
+<area shape="rect" id="node2" title=" " alt="" coords="31,84,105,113"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_math_text.html" title="this class parses a LaTeX string and can then draw the contained text/equation onto a QPainter" alt="" coords="179,84,307,113"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_math_text_1_1_m_tnode.html" title="subclass representing one node in the syntax tree" alt="" coords="214,196,413,225"/>
+<area shape="rect" id="node4" title=" " alt="" coords="200,5,285,35"/>
+</map>

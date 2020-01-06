@@ -1,0 +1,6 @@
+<map id="JKQTPGraphTextStyleMixin" name="JKQTPGraphTextStyleMixin">
+<area shape="rect" id="node1" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for text in graphs." alt="" coords="156,5,380,35"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_geo_text.html" title="This JKQTPPlotObject is used to display text. It uses the JKQTMathText class in order to display LaTe..." alt="" coords="5,83,136,112"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_overlay_vertical_line.html" title="draws a vertical line as an overlay" alt="" coords="161,83,375,112"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_overlay_vertical_range.html" title="draws a vertical range as an overlay" alt="" coords="399,83,633,112"/>
+</map>

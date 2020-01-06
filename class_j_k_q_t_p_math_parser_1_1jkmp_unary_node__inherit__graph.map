@@ -1,0 +1,4 @@
+<map id="JKQTPMathParser::jkmpUnaryNode" name="JKQTPMathParser::jkmpUnaryNode">
+<area shape="rect" id="node1" title="This class represents a unary operations: ! (bool negation), &#45; (arithmetic negation)" alt="" coords="5,83,297,112"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_math_parser_1_1jkmp_node.html" title="This class is the abstract base class for nodes. All allowed node types must inherit from jkmpNode." alt="" coords="29,5,274,35"/>
+</map>

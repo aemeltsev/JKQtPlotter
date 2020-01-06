@@ -1,0 +1,4 @@
+<map id="JKQTPMathParser::jkmpCompareNode" name="JKQTPMathParser::jkmpCompareNode">
+<area shape="rect" id="node1" title="This class represents a binary compare operation: !=, ==, &gt;=, &lt;=, &gt;, &lt;." alt="" coords="5,83,321,112"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_math_parser_1_1jkmp_node.html" title="This class is the abstract base class for nodes. All allowed node types must inherit from jkmpNode." alt="" coords="41,5,286,35"/>
+</map>

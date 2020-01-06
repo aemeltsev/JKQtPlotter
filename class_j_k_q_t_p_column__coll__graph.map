@@ -1,0 +1,7 @@
+<map id="JKQTPColumn" name="JKQTPColumn">
+<area shape="rect" id="node1" title="stores information about one data column. See JKQTPDatastore for more information." alt="" coords="5,100,133,129"/>
+<area shape="rect" id="node3" title=" " alt="" coords="143,195,425,224"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_datastore.html" title="This class manages data columns (with entries of type double ), used by JKQTPlotter/JKQTBasePlotter t..." alt="" coords="36,289,183,319"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="191,100,377,129"/>
+<area shape="rect" id="node5" title=" " alt="" coords="265,5,303,35"/>
+</map>

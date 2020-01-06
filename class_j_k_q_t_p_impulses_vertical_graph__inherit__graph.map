@@ -1,0 +1,11 @@
+<map id="JKQTPImpulsesVerticalGraph" name="JKQTPImpulsesVerticalGraph">
+<area shape="rect" id="node1" title="This implements an impulse plot with impulses in direction of the Y axis (i.e. from y=0 to y=f(x) )" alt="" coords="169,392,412,421"/>
+<area shape="rect" id="node9" href="$class_j_k_q_t_p_impulses_vertical_error_graph.html" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from x=0 to x=f(y) )" alt="" coords="173,469,409,516"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_impulses_horizontal_graph.html" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from y=0 to y=f(x) )" alt="" coords="157,315,424,344"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_x_y_graph.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="17,237,154,267"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_graph.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="27,160,144,189"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_plot_element.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="5,83,165,112"/>
+<area shape="rect" id="node6" title=" " alt="" coords="43,5,128,35"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_graph_line_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line sty..." alt="" coords="179,237,403,267"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_p_graph_symbol_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph symbols ..." alt="" coords="427,237,677,267"/>
+</map>

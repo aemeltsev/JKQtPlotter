@@ -1,0 +1,5 @@
+<map id="JKQTFPRGBImageOverlayPlot" name="JKQTFPRGBImageOverlayPlot">
+<area shape="rect" id="node1" title="plots 1,2 or 3 given grayscale images as an overlay plot, where each channel is drawn as one color ch..." alt="" coords="5,160,253,189"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_f_p_plot.html" title="base class for all plots that may be plotted by JKQTFastPlotter" alt="" coords="76,83,183,112"/>
+<area shape="rect" id="node3" title=" " alt="" coords="87,5,172,35"/>
+</map>

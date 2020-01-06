@@ -1,0 +1,13 @@
+<map id="JKQTPSpecialLineVerticalGraph" name="JKQTPSpecialLineVerticalGraph">
+<area shape="rect" id="node1" title="This implements a step plot with values ." alt="" coords="1091,77,1300,123"/>
+<area shape="rect" id="node10" href="$class_j_k_q_t_p_filled_curve_y_graph.html" title="This implements filled curve plots where the area is filled between the plot line and y&#45;Axis." alt="" coords="1348,85,1556,115"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_special_line_horizontal_graph.html" title="This implements a step plot with values ." alt="" coords="811,77,1043,123"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_x_y_graph.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="569,5,706,35"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_graph.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="347,5,464,35"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_plot_element.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="139,5,299,35"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,5,91,35"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_graph_line_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line sty..." alt="" coords="525,59,749,88"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_p_graph_fill_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph filling ..." alt="" coords="532,112,743,141"/>
+<area shape="rect" id="node9" href="$class_j_k_q_t_p_graph_symbol_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph symbols ..." alt="" coords="512,165,763,195"/>
+<area shape="rect" id="node11" href="$class_j_k_q_t_p_filled_curve_y_error_graph.html" title="This implements filled curve plots with y errors where the area is filled between the plot line and t..." alt="" coords="1604,85,1853,115"/>
+</map>

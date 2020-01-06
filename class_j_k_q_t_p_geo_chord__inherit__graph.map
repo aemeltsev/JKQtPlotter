@@ -1,0 +1,13 @@
+<map id="JKQTPGeoChord" name="JKQTPGeoChord">
+<area shape="rect" id="node1" title="This JKQTPPlotObject is used to draw a chord." alt="" coords="222,624,370,653"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_geo_pie.html" title="This JKQTPPlotObject is used to draw a pie." alt="" coords="235,547,357,576"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_geo_ellipse.html" title="This JKQTPPlotObject is used to draw an ellipse." alt="" coords="223,469,369,499"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_geo_rectangle.html" title="This JKQTPPlotObject is used to draw a rectangle." alt="" coords="209,392,383,421"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_geo_base_filled.html" title="This JKQTPPlotObject is used as base class for geometric drawing elements that only consist of lines ..." alt="" coords="209,315,383,344"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_geo_base_line.html" title="This JKQTPPlotObject is used as base class for geometric drawing elements that only consist of lines ..." alt="" coords="105,237,274,267"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_plot_object.html" title="this is the virtual base class of all JKQTPPlotElement&#39;s in a JKQTPlotter plot that represent geometr..." alt="" coords="11,160,159,189"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_p_plot_element.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="5,83,165,112"/>
+<area shape="rect" id="node9" title=" " alt="" coords="43,5,128,35"/>
+<area shape="rect" id="node10" href="$class_j_k_q_t_p_graph_line_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line sty..." alt="" coords="183,160,407,189"/>
+<area shape="rect" id="node11" href="$class_j_k_q_t_p_graph_fill_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph filling ..." alt="" coords="299,237,509,267"/>
+</map>

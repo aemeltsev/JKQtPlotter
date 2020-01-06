@@ -1,0 +1,15 @@
+<map id="JKQTFPPlot" name="JKQTFPPlot">
+<area shape="rect" id="node1" title="base class for all plots that may be plotted by JKQTFastPlotter" alt="" coords="139,219,245,248"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_f_pimage_overlay_plot.html" title="plots an image overlay, i.e. a boolean image where each true pixel is drawn with a given color and th..." alt="" coords="317,5,529,35"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_f_pimage_plot.html" title="plots a given grayscale image with a given color palette" alt="" coords="346,59,499,88"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_f_p_line_plot.html" title="a simple line plot for JKQTFastPlotter" alt="" coords="353,112,492,141"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_f_p_q_image_plot.html" title="a plot of a QImage" alt="" coords="339,165,507,195"/>
+<area shape="rect" id="node9" href="$class_j_k_q_t_f_p_q_overlay_linear_grid_plot.html" title="plot a horizontal scale bar" alt="" coords="293,219,552,248"/>
+<area shape="rect" id="node10" href="$class_j_k_q_t_f_p_q_scale_bar_x_plot.html" title="plot a horizontal scale bar" alt="" coords="323,272,522,301"/>
+<area shape="rect" id="node11" href="$class_j_k_q_t_f_p_r_g_b_image_overlay_plot.html" title="plots 1,2 or 3 given grayscale images as an overlay plot, where each channel is drawn as one color ch..." alt="" coords="299,325,547,355"/>
+<area shape="rect" id="node12" href="$class_j_k_q_t_f_p_x_range_plot.html" title="plot a range of x values" alt="" coords="339,379,506,408"/>
+<area shape="rect" id="node13" href="$class_j_k_q_t_f_p_y_range_plot.html" title="plot a range of x values" alt="" coords="340,432,505,461"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,219,91,248"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_f_p_v_bar_plot.html" title="a simple vertical bar plot for JKQTFastPlotter" alt="" coords="609,85,755,115"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_f_p_v_cross_plot.html" title="a simple plot that draws a cross for every datapoint" alt="" coords="600,139,764,168"/>
+</map>

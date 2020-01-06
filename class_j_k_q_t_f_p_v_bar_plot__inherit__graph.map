@@ -1,0 +1,6 @@
+<map id="JKQTFPVBarPlot" name="JKQTFPVBarPlot">
+<area shape="rect" id="node1" title="a simple vertical bar plot for JKQTFastPlotter" alt="" coords="5,237,151,267"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_f_p_line_plot.html" title="a simple line plot for JKQTFastPlotter" alt="" coords="9,160,147,189"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_f_p_plot.html" title="base class for all plots that may be plotted by JKQTFastPlotter" alt="" coords="25,83,131,112"/>
+<area shape="rect" id="node4" title=" " alt="" coords="35,5,121,35"/>
+</map>

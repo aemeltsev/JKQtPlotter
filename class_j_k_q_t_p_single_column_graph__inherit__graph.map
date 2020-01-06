@@ -1,0 +1,8 @@
+<map id="JKQTPSingleColumnGraph" name="JKQTPSingleColumnGraph">
+<area shape="rect" id="node1" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least one column of..." alt="" coords="123,237,345,267"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_peak_stream_graph.html" title="interprets data as a stream of x&#45; or y&#45;positions &#160;(depending in yPeaks ) ans plots a line on the heig..." alt="" coords="5,323,215,353"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_single_column_symbols_graph.html" title="plots a 1&#45;column set of data&#45;values with symbols onto a JKQtPlotter/JKQtBasePlotter...." alt="" coords="239,315,477,361"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_graph.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="175,160,293,189"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_plot_element.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="154,83,314,112"/>
+<area shape="rect" id="node4" title=" " alt="" coords="191,5,277,35"/>
+</map>

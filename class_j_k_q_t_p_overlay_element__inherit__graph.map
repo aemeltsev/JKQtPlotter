@@ -1,0 +1,11 @@
+<map id="JKQTPOverlayElement" name="JKQTPOverlayElement">
+<area shape="rect" id="node1" title="this virtual base class describes an interface for graph overlay elements, which are simple geometric..." alt="" coords="139,85,329,115"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_overlay_one_coord_overlay.html" title="baseclass for one&#45;coordinate indicator overlays (horizontal/vertical lines" alt="" coords="382,59,649,88"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_overlay_two_position_overlay.html" title="baseclass for a two&#45;position overlay" alt="" coords="377,112,653,141"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,85,91,115"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_overlay_two_coord_overlay.html" title="baseclass for two&#45;coordinate indicator overlays (horizontal/vertical lines" alt="" coords="701,5,965,35"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_overlay_vertical_line.html" title="draws a vertical line as an overlay" alt="" coords="726,59,941,88"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_overlay_vertical_range.html" title="draws a vertical range as an overlay" alt="" coords="1013,5,1247,35"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_p_overlay_line.html" title="draws a line throught two points" alt="" coords="754,112,913,141"/>
+<area shape="rect" id="node9" href="$class_j_k_q_t_p_overlay_rectangle.html" title="draws a rectangle, spanned by two points" alt="" coords="732,165,935,195"/>
+</map>

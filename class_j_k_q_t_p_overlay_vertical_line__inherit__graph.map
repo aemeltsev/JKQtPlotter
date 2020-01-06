@@ -1,0 +1,8 @@
+<map id="JKQTPOverlayVerticalLine" name="JKQTPOverlayVerticalLine">
+<area shape="rect" id="node1" title="draws a vertical line as an overlay" alt="" coords="301,237,515,267"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_overlay_one_coord_overlay.html" title="baseclass for one&#45;coordinate indicator overlays (horizontal/vertical lines" alt="" coords="5,160,272,189"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_overlay_element.html" title="this virtual base class describes an interface for graph overlay elements, which are simple geometric..." alt="" coords="43,83,234,112"/>
+<area shape="rect" id="node4" title=" " alt="" coords="96,5,181,35"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_graph_line_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line sty..." alt="" coords="296,160,520,189"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_graph_text_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for text in graphs." alt="" coords="544,160,768,189"/>
+</map>

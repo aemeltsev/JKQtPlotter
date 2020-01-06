@@ -1,0 +1,14 @@
+<map id="JKQTPBarHorizontalErrorGraph" name="JKQTPBarHorizontalErrorGraph">
+<area shape="rect" id="node1" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicator." alt="" coords="272,469,536,499"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_bar_horizontal_graph.html" title="This implements a bar graph with bars starting at &#160;to ." alt="" coords="179,392,402,421"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_bar_vertical_graph.html" title="This implements a bar graph with bars starting at &#160;to ." alt="" coords="191,315,391,344"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_x_y_graph.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="17,237,154,267"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_graph.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="27,160,144,189"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_plot_element.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="5,83,165,112"/>
+<area shape="rect" id="node7" title=" " alt="" coords="43,5,128,35"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_p_graph_line_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line sty..." alt="" coords="179,237,403,267"/>
+<area shape="rect" id="node9" href="$class_j_k_q_t_p_graph_fill_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph filling ..." alt="" coords="427,237,637,267"/>
+<area shape="rect" id="node10" href="$class_j_k_q_t_p_x_graph_errors.html" title="This class is the base class for graphs that only display error indicators in x&#45;direction." alt="" coords="428,392,607,421"/>
+<area shape="rect" id="node11" href="$class_j_k_q_t_p_x_graph_error_data.html" title="This class adds data fields for error indicators in x direction." alt="" coords="415,315,620,344"/>
+<area shape="rect" id="node12" href="$class_j_k_q_t_p_graph_error_style_mixin.html" title="This mix&#45;in class assembles all styling properties applicable to error indicators." alt="" coords="644,315,879,344"/>
+</map>

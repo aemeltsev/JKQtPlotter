@@ -1,0 +1,13 @@
+<map id="JKQTPMathImage" name="JKQTPMathImage">
+<area shape="rect" id="node1" title="class to plot an image from an 2&#45;dimensional array of values" alt="" coords="150,427,305,456"/>
+<area shape="rect" id="node9" href="$class_j_k_q_t_p_column_math_image.html" title="class to plot an image from an 2&#45;dimensional array of values stored in a column of the datastore" alt="" coords="13,504,228,533"/>
+<area shape="rect" id="node10" href="$class_j_k_q_t_p_contour_plot.html" title="class for a contour plot" alt="" coords="253,504,415,533"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_math_image_base.html" title="base class to hold an image from an 2&#45;dimensional array of values" alt="" coords="5,341,199,370"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_image_base.html" title="base class for plotting an image" alt="" coords="25,246,179,275"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_graph.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="43,160,161,189"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_plot_element.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="22,83,182,112"/>
+<area shape="rect" id="node6" title=" " alt="" coords="59,5,145,35"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_color_palette_with_modifier_style_and_tools_mixin.html" title="if a class is derived from this class, it may use color bars that have 2 axes (one &quot;data&quot;/color axis ..." alt="" coords="223,332,482,379"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_p_color_palette_style_and_tools_mixin.html" title="if a class is derived from this class, it may use color bars" alt="" coords="238,237,467,284"/>
+<area shape="rect" id="node11" href="$class_j_k_q_t_p_column_contour_plot.html" title="class for a contour plots (same as JKQTPContourPlot) of images stored in a JKQTPDatastore column" alt="" coords="223,581,445,611"/>
+</map>

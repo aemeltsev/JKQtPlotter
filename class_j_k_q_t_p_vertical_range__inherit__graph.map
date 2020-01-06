@@ -1,0 +1,9 @@
+<map id="JKQTPVerticalRange" name="JKQTPVerticalRange">
+<area shape="rect" id="node1" title="simply marks a range (and possibly a centerline) in a plot. This may be used to display e...." alt="" coords="193,315,367,344"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_horizontal_range.html" title="simply marks a range (and possibly a centerline) in a plot. This may be used to display e...." alt="" coords="181,237,379,267"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_graph.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="27,160,144,189"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_plot_element.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="5,83,165,112"/>
+<area shape="rect" id="node5" title=" " alt="" coords="43,5,128,35"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_graph_line_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line sty..." alt="" coords="168,160,392,189"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_graph_fill_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph filling ..." alt="" coords="416,160,627,189"/>
+</map>

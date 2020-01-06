@@ -1,0 +1,5 @@
+<map id="JKQTMathText" name="JKQTMathText">
+<area shape="rect" id="node1" title="this class parses a LaTeX string and can then draw the contained text/equation onto a QPainter" alt="" coords="41,84,169,113"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_math_text_1_1_m_tnode.html" title="subclass representing one node in the syntax tree" alt="" coords="5,196,204,225"/>
+<area shape="rect" id="node2" title=" " alt="" coords="62,5,147,35"/>
+</map>

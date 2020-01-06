@@ -1,0 +1,10 @@
+<map id="JKQTPOverlayVerticalRange" name="JKQTPOverlayVerticalRange">
+<area shape="rect" id="node1" title="draws a vertical range as an overlay" alt="" coords="1004,85,1237,115"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_overlay_two_coord_overlay.html" title="baseclass for two&#45;coordinate indicator overlays (horizontal/vertical lines" alt="" coords="692,5,956,35"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_overlay_one_coord_overlay.html" title="baseclass for one&#45;coordinate indicator overlays (horizontal/vertical lines" alt="" coords="377,5,644,35"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_overlay_element.html" title="this virtual base class describes an interface for graph overlay elements, which are simple geometric..." alt="" coords="139,5,329,35"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,5,91,35"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_graph_line_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line sty..." alt="" coords="712,59,936,88"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_graph_fill_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph filling ..." alt="" coords="719,112,929,141"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_p_graph_text_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for text in graphs." alt="" coords="712,165,936,195"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="JKQTPYGraphErrors" name="JKQTPYGraphErrors">
+<area shape="rect" id="node1" title="This class is the base class for graphs that only display error indicators in y&#45;direction." alt="" coords="288,59,464,88"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_bar_vertical_error_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicator." alt="" coords="517,5,758,35"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_filled_curve_x_error_graph.html" title="This implements filled curve plots with y errors where the area is filled between the plot line and t..." alt="" coords="512,59,763,88"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_impulses_vertical_error_graph.html" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from x=0 to x=f(y) )" alt="" coords="519,113,755,159"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_y_graph_error_data.html" title="This class adds data fields for error indicators in y direction." alt="" coords="21,32,224,61"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_graph_error_style_mixin.html" title="This mix&#45;in class assembles all styling properties applicable to error indicators." alt="" coords="5,85,240,115"/>
+</map>

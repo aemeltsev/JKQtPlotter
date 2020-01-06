@@ -1,0 +1,7 @@
+<map id="JKQTPGeoSymbol" name="JKQTPGeoSymbol">
+<area shape="rect" id="node1" title="This virtual JKQTPGraph descendent may be used to display a single symbol (marker)." alt="" coords="119,237,276,267"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_plot_object.html" title="this is the virtual base class of all JKQTPPlotElement&#39;s in a JKQTPlotter plot that represent geometr..." alt="" coords="11,160,159,189"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_plot_element.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="5,83,165,112"/>
+<area shape="rect" id="node4" title=" " alt="" coords="43,5,128,35"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_graph_symbol_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph symbols ..." alt="" coords="184,160,435,189"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="JKQTPMathParser::jkmpVariableNode" name="JKQTPMathParser::jkmpVariableNode">
+<area shape="rect" id="node1" title="This class represents a variable." alt="" coords="5,83,311,112"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_math_parser_1_1jkmp_node.html" title="This class is the abstract base class for nodes. All allowed node types must inherit from jkmpNode." alt="" coords="35,5,281,35"/>
+</map>

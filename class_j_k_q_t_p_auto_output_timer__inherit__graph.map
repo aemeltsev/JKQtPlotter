@@ -1,0 +1,4 @@
+<map id="JKQTPAutoOutputTimer" name="JKQTPAutoOutputTimer">
+<area shape="rect" id="node1" title="RAII construct that times its lifetime, outputting properly indented qDebug()&#45;message." alt="" coords="5,83,208,112"/>
+<area shape="rect" id="node2" title=" " alt="" coords="37,5,176,35"/>
+</map>

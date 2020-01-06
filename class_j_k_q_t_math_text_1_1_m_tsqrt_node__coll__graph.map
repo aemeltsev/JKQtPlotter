@@ -1,0 +1,6 @@
+<map id="JKQTMathText::MTsqrtNode" name="JKQTMathText::MTsqrtNode">
+<area shape="rect" id="node1" title="subclass representing a sqrt node" alt="" coords="5,117,236,147"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_math_text_1_1_m_tnode.html" title="subclass representing one node in the syntax tree" alt="" coords="79,5,277,35"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_math_text.html" title="this class parses a LaTeX string and can then draw the contained text/equation onto a QPainter" alt="" coords="297,117,425,147"/>
+<area shape="rect" id="node4" title=" " alt="" coords="395,5,481,35"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="JKQTPGraphErrorStyleMixin" name="JKQTPGraphErrorStyleMixin">
+<area shape="rect" id="node1" title="This mix&#45;in class assembles all styling properties applicable to error indicators." alt="" coords="5,216,240,245"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_x_graph_errors.html" title="This class is the base class for graphs that only display error indicators in x&#45;direction." alt="" coords="292,91,471,120"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_x_y_graph_errors.html" title="This class is the base class for graphs that only display error indicators in x&#45; and y&#45;direction." alt="" coords="288,216,475,245"/>
+<area shape="rect" id="node9" href="$class_j_k_q_t_p_y_graph_errors.html" title="This class is the base class for graphs that only display error indicators in y&#45;direction." alt="" coords="293,336,469,365"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_bar_horizontal_error_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicator." alt="" coords="523,5,787,35"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_filled_curve_y_error_graph.html" title="This implements filled curve plots with y errors where the area is filled between the plot line and t..." alt="" coords="530,59,779,88"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_impulses_horizontal_error_graph.html" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from x=0 to x=f(y) )" alt="" coords="525,113,784,159"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_x_y_line_error_graph.html" title="This implements xy line plots with x and y error indicators." alt="" coords="550,184,759,213"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_p_x_y_parametrized_error_scatter_graph.html" title="This implements xy scatter plots (like JKQTPXYLineGraph), but the color and size of the symbols may b..." alt="" coords="539,238,771,285"/>
+<area shape="rect" id="node10" href="$class_j_k_q_t_p_bar_vertical_error_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicator." alt="" coords="534,309,775,339"/>
+<area shape="rect" id="node11" href="$class_j_k_q_t_p_filled_curve_x_error_graph.html" title="This implements filled curve plots with y errors where the area is filled between the plot line and t..." alt="" coords="529,363,780,392"/>
+<area shape="rect" id="node12" href="$class_j_k_q_t_p_impulses_vertical_error_graph.html" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from x=0 to x=f(y) )" alt="" coords="537,417,773,463"/>
+</map>

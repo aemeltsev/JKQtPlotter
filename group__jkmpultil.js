@@ -1,0 +1,78 @@
+var group__jkmpultil =
+[
+    [ "jkmpResult", "struct_j_k_q_t_p_math_parser_1_1jkmp_result.html", [
+      [ "jkmpResult", "struct_j_k_q_t_p_math_parser_1_1jkmp_result.html#a4a90703dda8df76e937b834b50d9fe64", null ],
+      [ "toString", "struct_j_k_q_t_p_math_parser_1_1jkmp_result.html#a2a683930a0b3be2d37fac55f530a8b12", null ],
+      [ "toTypeString", "struct_j_k_q_t_p_math_parser_1_1jkmp_result.html#ab16ebac89f8cc749da4cee28aa993ccb", null ],
+      [ "boolean", "struct_j_k_q_t_p_math_parser_1_1jkmp_result.html#ad16d0ec91769885d555a653b081b66b8", null ],
+      [ "isValid", "struct_j_k_q_t_p_math_parser_1_1jkmp_result.html#abbc513d40254c4d53111047d6289771d", null ],
+      [ "num", "struct_j_k_q_t_p_math_parser_1_1jkmp_result.html#af8e41e1839b75df60f1a385171a67b38", null ],
+      [ "str", "struct_j_k_q_t_p_math_parser_1_1jkmp_result.html#a5f11e295a74cd83eb7b170c1bfa36a32", null ],
+      [ "type", "struct_j_k_q_t_p_math_parser_1_1jkmp_result.html#a77733ea1fac8e37c423baa4a0759389e", null ]
+    ] ],
+    [ "jkmpTempVariable", "group__jkmpultil.html#struct_j_k_q_t_p_math_parser_1_1jkmp_temp_variable", [
+      [ "boolean", "group__jkmpultil.html#a6fb3f3b7801faa729a1d6c943ad60430", null ],
+      [ "internal", "group__jkmpultil.html#a8079b945ca39a79d866001865f3da038", null ],
+      [ "name", "group__jkmpultil.html#a5b1ff4fb042a2eb38919ad7c647cc18d", null ],
+      [ "num", "group__jkmpultil.html#ab030ceaa586d658eaa3dd6bfe88025c5", null ],
+      [ "str", "group__jkmpultil.html#ad7f9b1c36fb6d744671c20f87377e4c2", null ],
+      [ "type", "group__jkmpultil.html#aa6ace73bb91eb0252b759c7fc34f194b", null ]
+    ] ],
+    [ "jkmpVariable", "struct_j_k_q_t_p_math_parser_1_1jkmp_variable.html", [
+      [ "jkmpVariable", "struct_j_k_q_t_p_math_parser_1_1jkmp_variable.html#a3651023c1434dc4b4eb36ab809c62400", null ],
+      [ "boolean", "struct_j_k_q_t_p_math_parser_1_1jkmp_variable.html#a50e2f3c786a11518f0006d7a9bcd2fcc", null ],
+      [ "internal", "struct_j_k_q_t_p_math_parser_1_1jkmp_variable.html#a6a28699f308a8ac890ef8af7753d6f00", null ],
+      [ "num", "struct_j_k_q_t_p_math_parser_1_1jkmp_variable.html#a584510c6bf0eae933e9befc30703cfd7", null ],
+      [ "str", "struct_j_k_q_t_p_math_parser_1_1jkmp_variable.html#ac531e98b8b541e1c3de8143da5458457", null ],
+      [ "type", "struct_j_k_q_t_p_math_parser_1_1jkmp_variable.html#a64c057ecc63d250f3a0e6731613b2b07", null ],
+      [ "jkmpLOPand", "group__jkmpultil.html#gga87aeee09f14e1f44b87c970571a48de9aacfa233768951e4c7ed7abb0bd0b1cdb", null ],
+      [ "jkmpLOPor", "group__jkmpultil.html#gga87aeee09f14e1f44b87c970571a48de9a3816a80c1b4f4a4a2aa237144e379949", null ],
+      [ "jkmpLOPxor", "group__jkmpultil.html#gga87aeee09f14e1f44b87c970571a48de9aa162ac41210f3c49e7d21818ed448e4d", null ],
+      [ "jkmpLOPnor", "group__jkmpultil.html#gga87aeee09f14e1f44b87c970571a48de9a8b627784093e2a40f8db0de260a231f8", null ],
+      [ "jkmpLOPnand", "group__jkmpultil.html#gga87aeee09f14e1f44b87c970571a48de9a2a28b7c9f1112c34f9630813e648ce25", null ],
+      [ "jkmpLOPnot", "group__jkmpultil.html#gga87aeee09f14e1f44b87c970571a48de9a2580e0edad4bbe4bf1963adfca827314", null ],
+      [ "jkmpCOMPequal", "group__jkmpultil.html#ggaddbba2d9c60f8ddf616af0c559e2319aa016c60653302dc0873d07e272094a9d9", null ],
+      [ "jkmpCOMPnequal", "group__jkmpultil.html#ggaddbba2d9c60f8ddf616af0c559e2319aad3bc5ec393077d7a0aafdaa1843921fb", null ],
+      [ "jkmpCOMPlesser", "group__jkmpultil.html#ggaddbba2d9c60f8ddf616af0c559e2319aaf58476d20924014959ad9edeae04f820", null ],
+      [ "jkmpCOMPgreater", "group__jkmpultil.html#ggaddbba2d9c60f8ddf616af0c559e2319aa2a79b1936694c3d29e93ba3a28b0799c", null ],
+      [ "jkmpCOMPlesserequal", "group__jkmpultil.html#ggaddbba2d9c60f8ddf616af0c559e2319aa1c9bcc4b93ecc8e83b750e09354e73a1", null ],
+      [ "jkmpCOMPgreaterequal", "group__jkmpultil.html#ggaddbba2d9c60f8ddf616af0c559e2319aaa6d883208db413637a7e8a6a4c17f6fa", null ]
+    ] ],
+    [ "jkmpResultType", "group__jkmpultil.html#ga2c40ad3a3d1312b13064d459e16cf4e3", [
+      [ "jkmpDouble", "group__jkmpultil.html#gga2c40ad3a3d1312b13064d459e16cf4e3a63bd42fdaf4f23bcdd10283986609856", null ],
+      [ "jkmpString", "group__jkmpultil.html#gga2c40ad3a3d1312b13064d459e16cf4e3a07f06941370ac3637c43d1b02cd707ef", null ],
+      [ "jkmpBool", "group__jkmpultil.html#gga2c40ad3a3d1312b13064d459e16cf4e3af088adf37fb3e684050ca83374f6e8b0", null ]
+    ] ],
+    [ "jkmpTokenType", "group__jkmpultil.html#ga6f3e8a859dbc5724960215d49ae6fc49", [
+      [ "END", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a2331af8d6d681dada3914a0e299d9982", null ],
+      [ "PRINT", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a09e45cbdb957eaffef2704f0b6c1e223", null ],
+      [ "PARAMETER_DIV", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a2fee9096cfb41f4f6db6b17f4ad9ac57", null ],
+      [ "STRING_DELIM", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49afbc079b3805cea3a4ba49fcc29bbf1f0", null ],
+      [ "NAME", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a57e3aa2203a577ca11cea4fadf8e380f", null ],
+      [ "NUMBER", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49ad26cc9a26c4f0a3f87b1333576e7c37a", null ],
+      [ "PLUS", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a9609be2378808ffa9f97f0c90df55244", null ],
+      [ "MINUS", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49ab70d3d98e3a9c3f61f1219999bcea760", null ],
+      [ "MUL", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a29132aec5da9788ee1829322b3235e51", null ],
+      [ "DIV", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49ae74b3e97a97e68d45f929197258a2d2d", null ],
+      [ "MODULO", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49addc12aabeffdf8c8cb4472a7c7e5cae3", null ],
+      [ "ASSIGN", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a8b6585b6b704f00e0be91505010b9b17", null ],
+      [ "LBRACKET", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a73993df8894c00981c10be6790d339ed", null ],
+      [ "RBRACKET", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a430977b35f86ff891c4791d1316ca07e", null ],
+      [ "POWER", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a95b421761b5590773b9cd97e33439280", null ],
+      [ "FACTORIAL_LOGIC_NOT", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a1f5dd89141b05c117b6a8b5cde1d564c", null ],
+      [ "LOGIC_NOT", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a4bf3cb7e354ef259d6999595b3c6e002", null ],
+      [ "LOGIC_AND", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a1b75c3bb05b62ca163b41247e75221e2", null ],
+      [ "LOGIC_OR", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a61dcd2dfa5e8bee4578e0d21b2f71a17", null ],
+      [ "LOGIC_XOR", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49ac23d3a2d656de2bdac67aa2c73319e47", null ],
+      [ "LOGIC_NOR", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49acafa623bec27ceb0b988db68f85b68ba", null ],
+      [ "LOGIC_NAND", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a36bc25b3ad797c3bb7ee27576034501a", null ],
+      [ "LOGIC_TRUE", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a3c4b2a63f8b6f19874af54f30e619ce7", null ],
+      [ "LOGIC_FALSE", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a452005418c9d51b457ef6c9e34cda375", null ],
+      [ "COMP_EQUALT", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a4b694dca4e8935fbc6c26adc7f0b5821", null ],
+      [ "COMP_UNEQUAL", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a9fb5e3b6162e2941e8aa71c62c36ef24", null ],
+      [ "COMP_GREATER", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49aa9584003ff3a48fad7bd1d237d0b2d2a", null ],
+      [ "COMP_SMALLER", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49aca671a8c00d62d4ae4de5e63cdea72ce", null ],
+      [ "COMP_GEQUAL", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a894e81d371dff48ac68e20c12eae6601", null ],
+      [ "COMP_SEQUAL", "group__jkmpultil.html#gga6f3e8a859dbc5724960215d49ae6fc49a82964ae578d74f92f44b619fe58953f4", null ]
+    ] ]
+];

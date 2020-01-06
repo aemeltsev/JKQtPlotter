@@ -1,0 +1,16 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_j_k_q_t_math_text_1_1_m_tnode.html" title="subclass representing one node in the syntax tree" alt="" coords="5,272,204,301"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_math_text_1_1_m_tbrace_node.html" title="subclass representing a brace node" alt="" coords="277,5,522,35"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_math_text_1_1_m_tdecorated_node.html" title="subclass representing a decorated text m (e.g. \vec \hat ...) node" alt="" coords="259,59,539,88"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_math_text_1_1_m_tfrac_node.html" title="subclass representing a \frac node" alt="" coords="283,112,515,141"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_math_text_1_1_m_tinstruction1_node.html" title="subclass representing an instruction node with exactly one argument in the syntax tree" alt="" coords="252,165,547,195"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_math_text_1_1_m_tlist_node.html" title="subclass representing a list of nodes in the syntax tree" alt="" coords="288,219,511,248"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_math_text_1_1_m_tmatrix_node.html" title="subclass representing a \begin{matrix} node" alt="" coords="274,272,525,301"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_math_text_1_1_m_tsqrt_node.html" title="subclass representing a sqrt node" alt="" coords="284,325,515,355"/>
+<area shape="rect" id="node9" href="$class_j_k_q_t_math_text_1_1_m_tsubscript_node.html" title="subclass representing an subscript node with exactly one argument in the syntax tree" alt="" coords="264,379,535,408"/>
+<area shape="rect" id="node10" href="$class_j_k_q_t_math_text_1_1_m_tsuperscript_node.html" title="subclass representing an superscript node with exactly one argument in the syntax tree" alt="" coords="256,432,543,461"/>
+<area shape="rect" id="node11" href="$class_j_k_q_t_math_text_1_1_m_tsymbol_node.html" title="subclass representing one symbol (e.g. \alpha , \cdot ...) node in the syntax tree" alt="" coords="272,485,527,515"/>
+<area shape="rect" id="node12" href="$class_j_k_q_t_math_text_1_1_m_ttext_node.html" title="subclass representing one text node in the syntax tree" alt="" coords="283,539,515,568"/>
+<area shape="rect" id="node13" href="$class_j_k_q_t_math_text_1_1_m_tplain_text_node.html" title="subclass representing one text node in the syntax tree" alt="" coords="604,512,871,541"/>
+<area shape="rect" id="node14" href="$class_j_k_q_t_math_text_1_1_m_twhitespace_node.html" title="subclass representing one whitepsace node in the syntax tree" alt="" coords="595,565,880,595"/>
+</map>

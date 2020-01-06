@@ -1,0 +1,8 @@
+<map id="JKQTPColorPaletteWithModifierStyleAndToolsMixin" name="JKQTPColorPaletteWithModifierStyleAndToolsMixin">
+<area shape="rect" id="node1" title="if a class is derived from this class, it may use color bars that have 2 axes (one &quot;data&quot;/color axis ..." alt="" coords="90,100,349,147"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_math_image.html" title="class to plot an image from an 2&#45;dimensional array of values" alt="" coords="142,195,297,224"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_color_palette_style_and_tools_mixin.html" title="if a class is derived from this class, it may use color bars" alt="" coords="105,5,334,52"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_column_math_image.html" title="class to plot an image from an 2&#45;dimensional array of values stored in a column of the datastore" alt="" coords="5,272,220,301"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_contour_plot.html" title="class for a contour plot" alt="" coords="245,272,407,301"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_column_contour_plot.html" title="class for a contour plots (same as JKQTPContourPlot) of images stored in a JKQTPDatastore column" alt="" coords="215,349,437,379"/>
+</map>

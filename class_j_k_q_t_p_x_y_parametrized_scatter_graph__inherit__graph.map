@@ -1,0 +1,12 @@
+<map id="JKQTPXYParametrizedScatterGraph" name="JKQTPXYParametrizedScatterGraph">
+<area shape="rect" id="node1" title="This implements xy scatter plots (like JKQTPXYLineGraph), but the color and size of the symbols may b..." alt="" coords="278,409,525,456"/>
+<area shape="rect" id="node10" href="$class_j_k_q_t_p_x_y_parametrized_error_scatter_graph.html" title="This implements xy scatter plots (like JKQTPXYLineGraph), but the color and size of the symbols may b..." alt="" coords="285,504,517,551"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_x_y_line_graph.html" title="This implements xy line plots. This also alows to draw symbols at the data points." alt="" coords="207,323,375,353"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_x_y_graph.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="17,237,154,267"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_graph.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="27,160,144,189"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_plot_element.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="5,83,165,112"/>
+<area shape="rect" id="node6" title=" " alt="" coords="43,5,128,35"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_graph_line_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line sty..." alt="" coords="179,237,403,267"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_p_graph_symbol_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph symbols ..." alt="" coords="427,237,677,267"/>
+<area shape="rect" id="node9" href="$class_j_k_q_t_p_color_palette_style_and_tools_mixin.html" title="if a class is derived from this class, it may use color bars" alt="" coords="399,315,628,361"/>
+</map>
