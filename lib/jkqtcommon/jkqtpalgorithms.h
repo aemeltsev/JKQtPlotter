@@ -21,6 +21,8 @@
 
 #ifndef JKQTPALGORITHMS_H_INCLUDED
 #define JKQTPALGORITHMS_H_INCLUDED
+#include <cstdint>
+#include <vector>
 #include "jkqtcommon/jkqtcommon_imexport.h"
 
 
@@ -150,6 +152,48 @@ inline void jkqtpQuicksortDual(const T* input, const T2* input2, int N, T* outpu
     T2* data2=output2;
     memcpy(output2, input2, N*sizeof(T2));
     jkqtpQuicksortDual(data, data2, 0, N-1);
+}
+
+/*! \brief
+ *  \param input
+ *  \param l
+ *  \param m
+ *  \param r
+*/
+template <class T>
+inline void jkqtpMerge(std::vector<T>& input, int16_t l, int16_t m, int16_t r){
+    int16_t l_iter = 0;
+    int16_t r_iter = 0;
+    std::vector<T> temp(r-l);
+    while((l+l_iter < m)&&(m+r_iter < r)){
+        if(input[l+l_iter] < input[r+r_iter]){
+            temp[l_iter+r_iter]=input[l+l_iter];
+            l_iter++;
+        }else{
+            temp[l_iter+r_iter]=input[m+r_iter];
+            r_iter++;
+        }
+    }
+    while(l+l_iter<m){
+        temp[l_iter+r_iter]=input[l+l_iter];
+        l_iter++;
+    }
+    while(m+r_iter<r){
+        temp[l_iter+r_iter]=input[m+r_iter];
+    }
+}
+
+/*! \brief
+ *  \param input
+*/
+template<class T>
+inline void jkqtpMergesort(std::vector<T>& input){
+    int32_t len=input.size();
+    for(int16_t i=0; i<len; i*=2){
+        for(int16_t l=0; l<len-1; l+=2*i){
+            jkqtpMerge(input, l, l+i, std::min(l+i*2, len));
+        }
+    }
 }
 
 
